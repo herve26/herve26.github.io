@@ -3,13 +3,13 @@
 **Last updated February 08, 2022**
   
 
-Thank you for choosing to be part of our community at Global Bazzar United ("**Company**," "**we**," "**us**," or "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at deuxbazzar@gmail.com.
+Thank you for choosing to be part of our community at Global Tech ("**Company**," "**we**," "**us**," or "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at deuxbazzar@gmail.com.
 
   
 
 This privacy notice describes how we might use your information if you:
 
-*   Download and use our mobile application — 2ème Bazzar
+*   Download and use our mobile application — TakeIt
 
 *   Engage with us in other related ways ― including any sales, marketing, or events
 
@@ -58,9 +58,6 @@ The purpose of this privacy notice is to explain to you in the clearest way poss
 [13\. DO WE MAKE UPDATES TO THIS NOTICE?](#policyupdates)
 
 [14\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)
-
-[15\. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?](#request)
-
   
 
 **1\. WHAT INFORMATION DO WE COLLECT?**
@@ -159,7 +156,7 @@ We use the information we collect or receive:
 
 *   **To facilitate account creation and logon process.** If you choose to link your account with us to a third-party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract. See the section below headed "[HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#sociallogins)" for further information.
 
-*   **To post testimonials.** We post testimonials on our App that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and the content of the testimonial. If you wish to update, or delete your testimonial, please contact us at deuxbazzar@gmail.com and be sure to include your name, testimonial location, and contact information.
+*   **To post testimonials.** We post testimonials on our App that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and the content of the testimonial. If you wish to update, or delete your testimonial, please contact us at nzanzuh@gmail.com and be sure to include your name, testimonial location, and contact information.
 
 *   **Request feedback.** We may use your information to request feedback and to contact you about your use of our App.
 
@@ -349,7 +346,7 @@ If you are a resident in Switzerland, the contact details for the data protectio
 
   
 
-If you have questions or comments about your privacy rights, you may email us at deuxbazzar@gmail.com.
+If you have questions or comments about your privacy rights, you may email us at nzanzuh@gmail.com.
 
   
 
@@ -413,24 +410,14 @@ We may update this privacy notice from time to time. The updated version will be
 
   
 
-If you have questions or comments about this notice, you may email us at deuxbazzar@gmail.com or by post to:
+If you have questions or comments about this notice, you may email us at nzanzuh@gmail.com or by post to:
 
   
 
-Global Bazzar United
+Global Tech
 
 12c, Av. Kimpwanza, Q. Djelo-Binza, C. Ngaliema
 
 Kinshasa, Kinshasa
 
 Democratic Republic of the Congo
-
-  
-
-**15\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?** 
-
-  
-
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please visit: [http://www.deuxbazzar.com/user/data](http://www.deuxbazzar.com/user/data).
-
-This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator).
